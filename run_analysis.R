@@ -1,5 +1,5 @@
 
-tidy <- function(WD = getwd())
+run_analysis <- function(WD = getwd())
 { 
 setwd(WD)  
 setwd("UCI HAR Dataset")
