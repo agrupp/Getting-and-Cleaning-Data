@@ -1,3 +1,11 @@
+run_analysis.R returns a 180 x 81 data frame with averages of the mean and standard deviation variables contained in the UCI HAR Dataset. 
+-The Activity variable is a descriptive label of what the subject was doing at the time data was recorded.
+-The Subject variables is a index signifying which of the 30 volunteers is being measured
+-All other variables represent averages taken for that subject and that activity.
+
+More information on the raw dataset is included below.
+
+
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
